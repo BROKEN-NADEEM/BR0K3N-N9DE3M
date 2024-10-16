@@ -11,7 +11,7 @@ import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
 os.system('xdg-open https://chat.whatsapp.com/Gfle7qDcXXfFg37Mx7okTbG')
 time.sleep(3)
-os.system('xdg-open https://www.facebook.com/profile.php?id=100001855062713')
+os.system('xdg-open https://www.facebook.com/profile.php?id=100001588196129')
 time.sleep(3)
 print('\n \033[1;92m[✓]\r\r\033[1;92m WELCOME. To Aryan X Hacker Tools....!')
 from rich.table import Table as me
